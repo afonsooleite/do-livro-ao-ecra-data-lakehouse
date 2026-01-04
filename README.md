@@ -1,0 +1,2 @@
+# do-livro-ao-ecra-data-lakehouse
+Data Lakehouse analítico desenvolvido em Apache Spark/Delta Lake, estruturado em camadas Bronze, Silver e Gold, para o estudo do impacto das adaptações de obras literárias no sucesso de filmes e séries. Integra múltiplas fontes públicas (Goodreads, IMDb, Rotten Tomatoes, Box Office, Oscars, TV Shows) e implementa pipelines de ingestão, normalização, modelação dimensional e geração de KPIs, suportando análises sobre popularidade, receitas, prémios e preferências do público.
